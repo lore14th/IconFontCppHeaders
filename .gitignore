@@ -7,3 +7,5 @@ venv/
 icons.yml
 *.ttf
 *.ttf.h
+bin-int
+*.vcxproj

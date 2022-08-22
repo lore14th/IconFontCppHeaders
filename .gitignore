@@ -9,3 +9,4 @@ icons.yml
 *.ttf.h
 bin-int
 *.vcxproj
+*.user

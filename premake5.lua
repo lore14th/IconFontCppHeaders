@@ -22,7 +22,7 @@ project "icon-font"
 		"IconsMaterialDesign.h"
 	}
 
-	sysincludedirs
+	externalincludedirs
 	{
 	}
 
